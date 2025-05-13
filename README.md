@@ -1,2 +1,16 @@
-# Math_Game_C-
-A simple terminal-based math game built with C++. Test your skills with random arithmetic questions across multiple difficulty levels. No GUI needed—just compile and play in the terminal. Great for practicing mental math in a fun and interactive way!
+# Math_Game_C++ 🎮➕➖✖️➗
+
+Math Game is a simple C++ terminal-based game with no graphical interface (GUI).
+It's designed to challenge your math skills using basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+##Game Features:
+Randomly generated math questions.
+
+Multiple difficulty levels (Beginner – Intermediate – Advanced).
+
+Score tracking based on correct answers.
+
+Great for all ages to practice and improve mental math skills.
+
+##How to Run:
+Compile the source code using any C++ compiler, then run the program from the terminal to start the game. Ready to test your brain? 💪
